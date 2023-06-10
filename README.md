@@ -7,6 +7,7 @@ This project is a React.js application built to practice using the features of T
 - **React Query v4**: The project utilizes React Query v4, a library for managing remote data fetching, caching, and synchronization in React applications. It provides an intuitive API to handle loading states, error handling, and data synchronization.
 - **Efficient Data Fetching**: The application uses React Query's features to fetch data from remote APIs and seamlessly handle loading states. It provides a smooth user experience by displaying loading indicators and efficiently updating data.
 - **Error Handling**: React Query v4 simplifies error handling during data fetching. It allows you to gracefully display error messages to users and provide fallback UIs when encountering errors.
+- **Loading Handling**: The project focuses on fetching data and handling loading states using React Query's powerful features. With React Query v4, you can easily handle loading states with the `isLoading` property. You can conditionally render a loading indicator while the data is being fetched, providing a seamless user experience.
 
 ---
 
