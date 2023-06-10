@@ -1,14 +1,9 @@
-import { useQuery, useMutation } from "@tanstack/react-query";
+import { useQuery } from "@tanstack/react-query";
 import  { useState } from 'react';
 import Posts from "./components/Posts";
 import axios from "axios";
 import Post from "./components/Post";
 import wait from "./waitFnc";
-
-const POSTS = [
-  { id: 1, title: "title 1" },
-  { id: 2, title: "title 2" },
-];
 
 function App() {
   const [id, setId ] = useState(-1);
