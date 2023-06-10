@@ -10,6 +10,11 @@ This project is a React.js application built to practice using the features of T
 
 ---
 
+## Live Link
+[https://form-validation-app-chi.vercel.app/](https://lucent-cajeta-67be77.netlify.app/)
+
+---
+
 ## Where you can find me ? 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medetcandiler)
@@ -17,11 +22,6 @@ This project is a React.js application built to practice using the features of T
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/medetdiler/)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/medetcandiler)
-
----
-## Live Link
-[https://form-validation-app-chi.vercel.app/](https://lucent-cajeta-67be77.netlify.app/)
-
 
 ## ABOUT ME 
 I am delighted that you have taken an interest in my project. At 26 years old, I hold a degree in mechanical engineering. Following graduation, I spent approximately five months working as an engineer in a specific field. However, during this time, I realized that the role did not align with my aspirations and overall satisfaction.
