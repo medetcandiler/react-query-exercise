@@ -25,7 +25,7 @@ function Post({ id, setId }) {
   if(queryPost.status === 'error') return <div>{queryPost.error.message}</div>
 
   return (
-    <div>
+    <div className='post'>
       <h1>User ID:{id}</h1>
       <br />
       {queryPost.data.title}
